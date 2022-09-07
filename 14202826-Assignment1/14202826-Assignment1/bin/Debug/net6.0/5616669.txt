@@ -1,0 +1,7 @@
+First Name|asd
+Laset Name|as
+Adress|das
+Phone|123123
+Email|@
+AccountNo|5616669
+Balance|0

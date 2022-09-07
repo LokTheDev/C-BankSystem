@@ -1,0 +1,10 @@
+First Name|Lok
+Laset Name|Lo
+Adress|1403
+Phone|4040140
+Email|asdad@gasdsd.com
+AccountNo|5133307
+Balance|3500
+Deposit| $150 Balance: $2600
+Deposit|$400|Balance|$3000
+Deposit|$500|Balance|$3500

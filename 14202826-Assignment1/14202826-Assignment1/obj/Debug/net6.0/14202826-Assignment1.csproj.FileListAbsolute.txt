@@ -1,0 +1,15 @@
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.csproj.AssemblyReference.cache
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.AssemblyInfoInputs.cache
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.AssemblyInfo.cs
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.csproj.CoreCompileInputs.cache
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/bin/Debug/net6.0/14202826-Assignment1
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/bin/Debug/net6.0/14202826-Assignment1.deps.json
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/bin/Debug/net6.0/14202826-Assignment1.runtimeconfig.json
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/bin/Debug/net6.0/14202826-Assignment1.dll
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/bin/Debug/net6.0/14202826-Assignment1.pdb
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.dll
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/refint/14202826-Assignment1.dll
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.pdb
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/14202826-Assignment1.genruntimeconfig.cache
+/Users/tszlok/Desktop/C#Dev/assignment1/14202826-Assignment1/14202826-Assignment1/obj/Debug/net6.0/ref/14202826-Assignment1.dll
